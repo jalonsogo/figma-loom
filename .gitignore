@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Build files
+*.js.map
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
