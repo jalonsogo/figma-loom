@@ -1,5 +1,5 @@
 {
-  "name": "Text Replacer",
+  "name": "Loom - Simple Text Replacer",
   "id": "text-replacer-plugin",
   "api": "1.0.0",
   "main": "code.js",

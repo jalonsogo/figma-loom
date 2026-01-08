@@ -1,6 +1,8 @@
-# Figma Text Replacer Plugin
+# Loom - Text Replacer Plugin
 
 A simple Figma plugin that allows you to replace multiple text elements with lines from a text input.
+
+![Loom icon](assets/loom.png)
 
 ## Features
 

@@ -1,5 +1,5 @@
 {
-  "name": "figma-text-replacer",
+  "name": "loom-text-replacer",
   "version": "1.0.0",
   "description": "A Figma plugin to replace multiple text elements with lines from a text input",
   "main": "code.js",
